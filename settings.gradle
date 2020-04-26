@@ -1,0 +1,2 @@
+include ':app',':ucrop', ':picture_library'
+rootProject.name='CropPicture'
